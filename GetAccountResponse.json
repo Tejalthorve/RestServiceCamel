@@ -1,0 +1,17 @@
+[
+{
+  "custID": "YOMA",
+  "acctNumber": "1234",
+  "balanceAmount": "3768",
+  "currency": "MMK",
+  "custName": "YOMA1234"
+  
+},
+{
+ "custID": "SCB",
+  "acctNumber": "4321",
+  "balanceAmount": "37681",
+  "currency": "BBK",
+  "custName": "SCB4321" 
+}
+]
